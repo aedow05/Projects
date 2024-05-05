@@ -12,7 +12,7 @@ def random_color():
 def go_shotput(putters):
     setup_shotput()
 
-    # List to store shot put results for each competitor
+     # List to store shot put results for each competitor
     shot_results = []
 
     for _ in range(putters):
