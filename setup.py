@@ -47,7 +47,7 @@ def make_competitor(x,y,colors):
     t.shapesize(2,2,1)
     t.shape("turtle")
 
-    # go to its starting position and point "north"
+    # go to its starting position and point north
     t.penup()
     t.goto(x,y)
     t.seth(90)
