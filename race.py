@@ -2,7 +2,7 @@ import turtle
 import random
 import math
 
-# Import the missing setup function
+#  Import the missing setup function
 from setup import setup_sprinting, make_competitor, starter_row, finish_row, competitor_info,track_width
 
 def run_the_race(runner_count):
