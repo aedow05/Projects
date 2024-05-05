@@ -39,13 +39,6 @@ def run_the_race(runner_count):
         # Nest a for-loop inside this while loop to move each
         # competitor forward some random distance at each iteration.
         # The for loop is a counting loop that iterates as many times
-        # as there are runners. You must use range because you will use
-        # the index value to access different lists.
-
-        # Change the first if-statement so that it uses your for loop
-        # iterator, not a hard-coded index (e.g. [0]).
-
-        # DELETE the if-statements for 'Jojo' and 'Lemon'
 
         for i in range(runner_count):
             competitor = competitors[i]
