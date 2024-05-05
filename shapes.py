@@ -108,15 +108,8 @@ def draw_triangle( t, position, h, w, colors ):
     t.end_fill()
 
 
-########################################################################
-########################################################################
-#####################    TEST YOUR CODE   ##############################
 
-
-'''
-code in the if-statement will be executed only when you run
-this module, not when you import it.
-'''
+# Test code
 if __name__ == '__main__':
     t = turtle.Turtle()
     t.speed(15)
