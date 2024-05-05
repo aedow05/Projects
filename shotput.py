@@ -114,7 +114,7 @@ def awards_ceremony(winners):
         medal.circle(10)
         medal.end_fill()
 
-        i += 1  # Increment the index manually
+        i += 1  # Increment the index 
 
 
 
