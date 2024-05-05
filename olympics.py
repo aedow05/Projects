@@ -1,4 +1,4 @@
-# Main File, all code is ran from here
+# main file, all code is ran from here
 from race import run_the_race
 from shotput import go_shotput
 
